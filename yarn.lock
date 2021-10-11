@@ -2731,10 +2731,10 @@ isexe@^2.0.0:
   resolved "https://registry.yarnpkg.com/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
   integrity sha1-6PvzdNxVb/iUehDcsFctYz8s+hA=
 
-istanbul-badges-readme@1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/istanbul-badges-readme/-/istanbul-badges-readme-1.4.0.tgz#4c635e9761056e214da135ed2f338b9711b5815d"
-  integrity sha512-YujvYtTjSGwALCIAtSWsV2c4rLTyIEVm3vSLAGLXsUm/T8xteaJyV6dxGWFKmuCcDnVq1IBnbGYDwq2byS7bYg==
+istanbul-badges-readme@1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/istanbul-badges-readme/-/istanbul-badges-readme-1.6.0.tgz#f73b2ed16a934619eb7aa8876d11f089dba36b4f"
+  integrity sha512-hEwKMHvRTE2nGRzbxnYHzL8kQPn08rP3P3P8keSeP1ll48I275iKHAjdxRPPnFSQ96YrXM9ZiveImbh1SvyJUw==
 
 istanbul-lib-coverage@^3.0.0:
   version "3.0.0"
